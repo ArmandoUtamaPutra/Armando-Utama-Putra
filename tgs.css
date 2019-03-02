@@ -1,0 +1,28 @@
+body{
+    background: white url(semuagambar/gambar1.jpg) no-repeat top right;
+}
+h1 {
+    color: aqua;
+    background-color: blue;
+}
+
+h2,h3,h4 {
+    font-size: xx-large;
+    font-style: italic;
+}
+
+table {
+    border: thin solid black;
+}
+
+th{
+    background-color: blue;
+}
+
+h4{
+    background-color: white;
+}
+
+td{
+    background-color: aqua;
+}
